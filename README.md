@@ -1,8 +1,8 @@
 ### Olá! sou Guilherme Piedade
 
 
-- 🔭 em busca de uma oportunidade ...
-- 🌱 Estou estudando javascript ...
+- 🔭 Em busca de oportunidades
+- 🌱 Estou estudando javascript/html/css
 
 
   
