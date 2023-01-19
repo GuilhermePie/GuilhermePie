@@ -31,8 +31,14 @@
    <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
+
 #### 🛸 Essas são as tecnologias que estou buscando aprender :)<br>
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
+#### Redes Sociais:
 
-
+<div>
+  <a href = "https://www.instagram.com/guilherme_piedade/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-piedade-37a777204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </a>
+</div>
