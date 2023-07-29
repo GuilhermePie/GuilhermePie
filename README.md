@@ -1,6 +1,6 @@
 ### Olá! sou Guilherme Piedade
 
-- Link para meu Portfolio web: https://jolly-bienenstitch-dd2559.netlify.app
+- Link para meu Portfólio web: https://jolly-bienenstitch-dd2559.netlify.app
 - 👨‍💻 Em busca de oportunidades
 - 📚 Estou estudando javascript/html/css
 
