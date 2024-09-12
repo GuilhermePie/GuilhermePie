@@ -28,7 +28,7 @@
 <br>
 
 #### Tecnologias que estou estudando:
-   <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
 
