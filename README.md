@@ -2,8 +2,7 @@
 
 - Link para meu Portfólio web: https://guilhermepie.netlify.app
 - 👨‍💻 Em busca de oportunidades
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePie&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
+
 
 
 
